@@ -3,7 +3,6 @@
 
 # Own
 shortcut-properties.nsh
-.vscode/
 cov.xml
 coverage
 .coverage
@@ -140,3 +139,5 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python
+temp_auto_push.bat
+temp_interactive_push.bat
